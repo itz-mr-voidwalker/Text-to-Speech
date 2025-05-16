@@ -1,0 +1,4 @@
+customtkinter
+requests
+edge-tts
+googletrans==4.0.0-rc1
